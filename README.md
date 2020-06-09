@@ -3,7 +3,7 @@
 Usage:
 ```js
 new Entry.Modal(/* ID AutoSetting */'auto', {
-        title: 'SANS'
+        title: 'SANS',
         events: {
                 readyEvent(use) {
                         use('addField', {
