@@ -1,3 +1,5 @@
+console.log('원작자 muno9748');
+console.log('https://github.com/muno9748/EntryModal 스타꾺꾺');
 Entry.Modal = class EntryModal {
         constructor(id, data) {
                 if(!id || id == 'auto') id = Entry.Utils.generateId();
