@@ -1,4 +1,4 @@
-console.log('원작자 muno9748');
+console.log('%cEntryModal 원작자 \n\n%c %c\n muno9748', 'font-size: 1.2rem; font-family: sans-serif;', 'background: url(https://avatars1.githubusercontent.com/u/58895791?s=64&v=4); padding-right: 58px; padding-top: 48px; margin-left: 15px;', 'font-family: sans-serif; font-size: 1.1rem;');
 console.log('https://github.com/muno9748/EntryModal 스타꾺꾺');
 Entry.Modal = class EntryModal {
         constructor(id, data) {
